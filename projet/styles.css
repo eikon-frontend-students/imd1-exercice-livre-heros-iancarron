@@ -1,0 +1,28 @@
+body {
+  background-color: darkgreen;
+  color: aliceblue;
+  font-family: Helvetica, sans-serif;
+  max-width: 600px;
+  padding: 20px;
+}
+h1 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+a {
+  padding: 20px;
+  margin-top: 20px;
+  background-color: aliceblue;
+  display: block;
+  text-align: center;
+  border-radius: 20px;
+  color: darkgreen;
+}
+p {
+  margin-bottom: 50px;
+  line-height: 23px;
+}
+img {
+  max-width: 600px;
+  align-self: center;
+}
