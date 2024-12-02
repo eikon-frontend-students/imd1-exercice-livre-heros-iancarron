@@ -1,10 +1,45 @@
 body {
-  background-color: #1a1a1a;
   color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  max-width: 600px;
+  display: flex;
 }
 
+img {
+  max-width: 280px;
+  display: flex;
+  justify-content: start;
+  margin-right: auto;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0px;
+}
+
+h2 {
+  font-weight: 300;
+}
+
+p {
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+div {
+  padding: 20px;
+}
 a {
   color: white;
+  background-color: #1a1a1a;
+  text-decoration: none;
+  margin: 10px;
+  padding: 20px;
+  display: flex;
 }
 
 /* 🦊 Compléter les styles de votre teaser  */
